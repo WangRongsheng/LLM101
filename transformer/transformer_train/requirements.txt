@@ -1,0 +1,11 @@
+torchtext
+# python -m spacy download en_core_web_sm
+# python -m spacy download de_core_news_sm
+
+
+# https://raw.githubusercontent.com/neychev/small_DL_repo/master/datasets/Multi30k/training.tar.gz
+# https://raw.githubusercontent.com/neychev/small_DL_repo/master/datasets/Multi30k/validation.tar.gz
+# https://raw.githubusercontent.com/neychev/small_DL_repo/master/datasets/Multi30k/mmt16_task1_test.tar.gz
+# and tar them in the .data/multi30k folder
+
+# CUDA_VISIBLE_DEVICES=0 python train.py -B
