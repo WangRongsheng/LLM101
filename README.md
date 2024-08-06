@@ -6,3 +6,4 @@
 2. https://github.com/Glanvery/LLM-Travel
 3. https://github.com/hyunwoongko/transformer
 4. https://github.com/zyds/transformers-code
+5. https://github.com/leeguandong/MiniLLaMA3
