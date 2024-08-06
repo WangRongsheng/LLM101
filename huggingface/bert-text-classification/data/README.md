@@ -1,0 +1,5 @@
+- train.txt：训练数据（格式为：text, label_id）
+- test.txt：测试数据（格式为：text, label_id）
+- label.txt：标签列表（格式为：label_id, label_name）
+- input.txt：输入数据（格式为：text）
+- dev.txt：验证数据（格式为：text, label_id）
