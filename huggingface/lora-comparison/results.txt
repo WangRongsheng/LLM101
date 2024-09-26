@@ -1,0 +1,180 @@
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: False
+lora_value: True
+lora_projection: False
+lora_mlp: False
+lora_head: False
+device: 0
+verbose: False
+Train acc: 91.31%
+Val acc:   90.60%
+Test acc:  90.09%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: False
+lora_value: True
+lora_projection: False
+lora_mlp: False
+lora_head: True
+device: 0
+verbose: False
+Train acc: 92.23%
+Val acc:   91.78%
+Test acc:  90.87%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: False
+lora_value: True
+lora_projection: False
+lora_mlp: True
+lora_head: False
+device: 0
+verbose: False
+Train acc: 94.70%
+Val acc:   91.98%
+Test acc:  91.72%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: False
+lora_value: True
+lora_projection: False
+lora_mlp: True
+lora_head: True
+device: 0
+verbose: False
+Train acc: 94.70%
+Val acc:   92.18%
+Test acc:  91.36%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: False
+lora_value: True
+lora_projection: True
+lora_mlp: False
+lora_head: False
+device: 0
+verbose: False
+Train acc: 92.70%
+Val acc:   91.62%
+Test acc:  90.70%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: False
+lora_value: True
+lora_projection: True
+lora_mlp: False
+lora_head: True
+device: 0
+verbose: False
+Train acc: 91.74%
+Val acc:   91.58%
+Test acc:  90.39%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: False
+lora_value: True
+lora_projection: True
+lora_mlp: True
+lora_head: False
+device: 0
+verbose: False
+Train acc: 95.10%
+Val acc:   92.36%
+Test acc:  91.69%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: False
+lora_value: True
+lora_projection: True
+lora_mlp: True
+lora_head: True
+device: 0
+verbose: False
+Train acc: 95.38%
+Val acc:   91.90%
+Test acc:  91.56%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: True
+lora_value: True
+lora_projection: False
+lora_mlp: False
+lora_head: False
+device: 0
+verbose: False
+Train acc: 91.69%
+Val acc:   90.70%
+Test acc:  90.12%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: True
+lora_value: True
+lora_projection: False
+lora_mlp: False
+lora_head: True
+device: 0
+verbose: False
+Train acc: 92.47%
+Val acc:   91.38%
+Test acc:  91.02%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: True
+lora_value: True
+lora_projection: False
+lora_mlp: True
+lora_head: False
+device: 0
+verbose: False
+Train acc: 94.07%
+Val acc:   91.60%
+Test acc:  91.51%
+------------------------------------------------
+------------------------------------------------
+lora_r: 1
+lora_alpha: 1
+lora_query: True
+lora_key: True
+lora_value: True
+lora_projection: False
+lora_mlp: True
+lora_head: True
+device: 0
+verbose: False
+Train acc: 94.23%
+Val acc:   91.98%
+Test acc:  91.80%
+------------------------------------------------
