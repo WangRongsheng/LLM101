@@ -1,5 +1,7 @@
 # llm
 
+1. [检查 Tokenizer 词表大小与 LLM 的 Embedding 和 LM_head 输入大小是否匹配](https://github.com/KnowAIHub/llm/blob/main/embedding/check_embedding.ipynb)
+
 # Reference
 
 1. https://github.com/taishan1994/sentencepiece_chinese_bpe
