@@ -24,6 +24,7 @@
 22. [实现 vLLM 在 GPU 和 CPU 情况下进行推理](https://github.com/KnowAIHub/llm/tree/main/inference)
 23. [对 LLM 实现类似于 o1 逻辑推理的 Prompt](https://github.com/KnowAIHub/llm/blob/main/inference/o1-reasoning.py)
 24. [使用代码数据对CodeLlama进行微调](https://github.com/KnowAIHub/llm/blob/main/sft/codellama_code_sft.ipynb)
+25. [微调 Llama 进行文本分类任务](https://github.com/KnowAIHub/llm/tree/main/huggingface/LlamaForClassification)
 
 # Reference
 
