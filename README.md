@@ -25,6 +25,7 @@
 23. [对 LLM 实现类似于 o1 逻辑推理的 Prompt](https://github.com/KnowAIHub/llm/blob/main/inference/o1-reasoning.py)
 24. [使用代码数据对CodeLlama进行微调](https://github.com/KnowAIHub/llm/blob/main/sft/codellama_code_sft.ipynb)
 25. [微调 Llama 进行文本分类任务](https://github.com/KnowAIHub/llm/tree/main/huggingface/LlamaForClassification)
+26. [利用预训练的 BERT 系模型实现 LLM Router，同时进行 CPT 50%和80% 评测计算](https://github.com/KnowAIHub/llm/tree/main/llm_router)
 
 # Reference
 
