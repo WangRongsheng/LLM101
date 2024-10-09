@@ -1,3 +1,4 @@
 - https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/train_llava
 - https://huggingface.co/docs/transformers/main/en/model_doc/llava
 - https://huggingface.co/google/siglip-base-patch16-224
+- https://huggingface.co/datasets/LinkSoul/Chinese-LLaVA-Vision-Instructions
