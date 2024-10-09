@@ -29,6 +29,7 @@
 27. [结合Autotrain-advanced 对 LLM 进行白盒知识蒸馏](https://github.com/KnowAIHub/llm/tree/main/knowledge_distillation)
 28. [使用 Transformers 和 Faiss 实现图片相似检索](https://github.com/KnowAIHub/llm/tree/main/huggingface/image_similarity)
 29. [解析如何利用 CLIP 为 VLMs 的 Visual Encoder 提供视觉信息](https://github.com/KnowAIHub/llm/blob/main/vlm/vlm_visual_encoder_clip_image_feature.ipynb)
+30. [对比多模态模型中不同的 Input Projector 的特点以及简单实现](https://github.com/KnowAIHub/llm/blob/main/vlm/vlm_input_projector.ipynb)
 
 # Reference
 
