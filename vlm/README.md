@@ -2,3 +2,4 @@
 - https://huggingface.co/docs/transformers/main/en/model_doc/llava
 - https://huggingface.co/google/siglip-base-patch16-224
 - https://huggingface.co/datasets/LinkSoul/Chinese-LLaVA-Vision-Instructions
+- https://huggingface.co/datasets/liuhaotian/LLaVA-CC3M-Pretrain-595K
