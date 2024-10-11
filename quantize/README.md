@@ -1,0 +1,4 @@
+- https://github.com/turboderp/exllamav2
+- https://github.com/ggerganov/llama.cpp
+- https://github.com/AutoGPTQ/AutoGPTQ
+- https://github.com/casper-hansen/AutoAWQ
