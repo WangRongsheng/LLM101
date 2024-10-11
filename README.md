@@ -32,6 +32,7 @@
 30. [对比多模态模型中不同的 Input Projector 的特点以及简单实现](https://github.com/KnowAIHub/llm/blob/main/vlm/vlm_input_projector.ipynb)
 31. [基于 SetFit 实现 NLP 模型的知识蒸馏](https://github.com/KnowAIHub/llm/tree/main/knowledge_distillation/setfit_kd)
 32. [Ollama的基本使用与并发多模型使用](https://github.com/KnowAIHub/llm/blob/main/inference/ollama_infer.ipynb)
+33. [使用 AWQ 对 LLM 进行量化训练](https://github.com/KnowAIHub/llm/blob/main/quantize/awq.ipynb)
 
 # Reference
 
