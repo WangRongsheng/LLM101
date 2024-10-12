@@ -1,0 +1,4 @@
+- https://github.com/arcee-ai/mergekit
+- https://github.com/Leeroo-AI/mergoo
+- https://github.com/FasterDecoding/Medusa
+- https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit.html
