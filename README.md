@@ -34,4 +34,5 @@
 32. [Ollama的基本使用与并发多模型使用](https://github.com/KnowAIHub/llm/blob/main/inference/ollama_infer.ipynb)
 33. [使用 AWQ 对 LLM 进行量化训练](https://github.com/KnowAIHub/llm/blob/main/quantize/awq.ipynb)
 34. [使用 llama.cpp 对模型进行 GGUF 量化](https://github.com/KnowAIHub/llm/blob/main/quantize/gguf.ipynb)
+35. [LLM 采样方法详解 - Top-K、温度、贪心搜索等](https://github.com/AlpacaACE/LLM360/tree/main/sft/decoding_strategies)
 
