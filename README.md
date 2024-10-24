@@ -38,4 +38,5 @@
 36. [BLIP2 推理](https://github.com/AlpacaACE/LLM360/blob/main/huggingface/blip2/blip2.ipynb)
 37. [对 LLM 进行 o1-like reasoning 微调训练并且进行 add special token 和 embedding 重训练](https://github.com/AlpacaACE/LLM360/blob/main/sft/o1-reasoning-sft.ipynb)
 38. [使用 Ollama 进行 Function Calling/Tool Use 调用](https://github.com/AlpacaACE/LLM360/blob/main/inference/ollama_function_calling.ipynb)
+39. [使用 BertViz 对 LLM 的 Attention 计算进行可视化展示](https://github.com/AlpacaACE/LLM101/blob/main/inference/llm_attention_visualization.ipynb)
 
