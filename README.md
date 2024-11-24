@@ -1,4 +1,4 @@
-# LLM360
+# LLM101
 
 1. [检查 Tokenizer 词表大小与 LLM 的 Embedding 和 LM_head 输入大小是否匹配](https://github.com/KnowAIHub/llm/blob/main/embedding/check_embedding.ipynb)
 2. [对 SBert 进行训练、预测、评估使其进行相似度计算](https://github.com/KnowAIHub/llm/tree/main/huggingface/Sentence-BERT-Similarity)
@@ -41,3 +41,4 @@
 39. [使用 BertViz 对 LLM 的 Attention 计算进行可视化展示](https://github.com/AlpacaACE/LLM101/blob/main/inference/llm_attention_visualization.ipynb)
 40. [通过修改指定层参数对 LLM 的拒绝回答进行越狱](https://github.com/AlpacaACE/LLM101/blob/main/jailbreak/Uncensor_any_LLM_with_abliteration.ipynb)
 
+> 本repo大部分内容非首发，如有疑问，请联系：`wrs6@88.com`
