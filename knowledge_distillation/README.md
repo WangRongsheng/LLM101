@@ -1,0 +1,3 @@
+- https://zhuanlan.zhihu.com/p/1064724364
+- https://huggingface.co/docs/trl/main/gkd_trainer
+- https://github.com/pytorch/torchtune
