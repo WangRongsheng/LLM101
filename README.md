@@ -42,3 +42,7 @@
 40. [通过修改指定层参数对 LLM 的拒绝回答进行越狱](https://github.com/AlpacaACE/LLM101/blob/main/jailbreak/Uncensor_any_LLM_with_abliteration.ipynb)
 
 > 本repo大部分内容非首发，如有疑问，请联系：`wrs6@88.com`
+
+## 参考
+
+1. https://github.com/aburkov/theLMbook
