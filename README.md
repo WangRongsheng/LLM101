@@ -40,6 +40,7 @@
 38. [使用 Ollama 进行 Function Calling/Tool Use 调用](https://github.com/AlpacaACE/LLM360/blob/main/inference/ollama_function_calling.ipynb)
 39. [使用 BertViz 对 LLM 的 Attention 计算进行可视化展示](https://github.com/AlpacaACE/LLM101/blob/main/inference/llm_attention_visualization.ipynb)
 40. [通过修改指定层参数对 LLM 的拒绝回答进行越狱](https://github.com/AlpacaACE/LLM101/blob/main/jailbreak/Uncensor_any_LLM_with_abliteration.ipynb)
+41. [一文了解 Tokenizer 的 Chat Template ](https://github.com/WangRongsheng/LLM101/tree/main/transformer/tokenizer_chat_template)
 
 > 本repo大部分内容非首发，如有疑问，请联系：`wrs6@88.com`
 
