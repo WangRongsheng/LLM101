@@ -46,3 +46,4 @@
 ## 参考
 
 1. https://github.com/aburkov/theLMbook
+2. https://github.com/huggingface/smol-course
